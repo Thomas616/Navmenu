@@ -1,0 +1,29 @@
+*{
+margin: auto;
+padding: ;
+box-sizing: border-box;
+}
+
+#nav-content{
+background-color: #ff0000;
+
+}
+
+#ul-content{
+    list-style: none;
+    display: flex;
+    width: 30%;
+}
+#li-content{
+    padding: 30px;
+    color: #fff;
+}
+#li-content a{
+    text-decoration: none;
+    color: #fff;
+   font-size: 20px;
+}
+img{
+    width: 5%;
+    float: left;
+}
